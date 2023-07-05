@@ -1,0 +1,39 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+body #logo {
+  background-color: #E6E6E6;
+  text-align: center;
+}
+body #logo h1 {
+  background-color: #C4C4C4;
+  color: #005677;
+  text-transform: uppercase;
+  font-size: 35px;
+  font-weight: 700;
+}
+body main section article .subtitulos {
+  background-color: #C4C4C4;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 700;
+  color: #005677;
+}
+body main section article ul li span {
+  font-weight: bold;
+}
+body main section article #datos {
+  font-size: 15px;
+  font-style: italic;
+}
+body main section article #descripcion {
+  text-indent: 80px;
+}
+body main footer {
+  background-color: #005677;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 2;
+}/*# sourceMappingURL=styles.css.map */
